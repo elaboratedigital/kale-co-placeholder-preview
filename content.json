@@ -1,0 +1,278 @@
+{
+  "meta": {
+    "placeholder": true,
+    "banner": "PREVIEW \u2013 placeholder content. Sample menu, prices, hours, and contact details. Not taking real orders.",
+    "noIndex": true
+  },
+  "business": {
+    "name": "The Kale Company",
+    "shortName": "Kale Co.",
+    "city": "Baltimore, MD",
+    "tagline": "Fresh, simple meals from a Baltimore kitchen.",
+    "heroHeadline": "Eat a little greener.",
+    "heroSubhead": "Placeholder copy. A neighborhood kitchen for bowls, wraps, and everyday greens. Swap this text for the client's own words.",
+    "heroNote": "This is a working preview with fake menu items and prices so the site can be reviewed before real content arrives."
+  },
+  "contact": {
+    "addressLine1": "PLACEHOLDER \u2014 street address to be confirmed",
+    "addressLine2": "Baltimore, MD 21218",
+    "phone": "PLACEHOLDER \u2014 (410) 555-0148",
+    "phoneHref": "",
+    "email": "PLACEHOLDER \u2014 hello@example.com",
+    "emailHref": "",
+    "mapNote": "A map will be added after the real pickup address is confirmed. Do not travel based on this preview."
+  },
+  "hours": {
+    "note": "Hours below are placeholders and are not the restaurant's real schedule.",
+    "timezoneLabel": "Eastern Time (placeholder)",
+    "entries": [
+      {
+        "days": "Monday \u2013 Thursday",
+        "hours": "11:00 AM \u2013 8:00 PM"
+      },
+      {
+        "days": "Friday \u2013 Saturday",
+        "hours": "11:00 AM \u2013 9:00 PM"
+      },
+      {
+        "days": "Sunday",
+        "hours": "Closed"
+      }
+    ]
+  },
+  "delivery": {
+    "enabled": true,
+    "areaName": "PLACEHOLDER \u2014 one standard delivery area",
+    "areaDescription": "Demo area only: a short list of Baltimore ZIP codes. Replace these with the client's real service area before launch. This basic site uses one flat delivery fee, not time-of-day or mileage pricing.",
+    "zips": [
+      "21218",
+      "21213",
+      "21202",
+      "21206",
+      "21212",
+      "21214"
+    ],
+    "flatFee": 6.0,
+    "feeLabel": "Delivery fee (placeholder flat rate)"
+  },
+  "tax": {
+    "rate": 0,
+    "label": "Tax",
+    "note": "Sales tax is not configured. Confirm the correct rate with the client's accountant before launch."
+  },
+  "stripe": {
+    "enabled": false,
+    "mode": "test",
+    "publishableKey": "pk_test_REPLACE_WITH_CLIENT_TEST_KEY",
+    "checkoutSessionEndpoint": "/api/create-checkout-session",
+    "currency": "usd",
+    "successUrl": "order-confirmation.html?payment=stripe",
+    "cancelUrl": "checkout.html?payment=cancelled"
+  },
+  "about": {
+    "headline": "A Baltimore kitchen, kept simple.",
+    "paragraphs": [
+      "The Kale Company serves fresh, plant-forward food in Baltimore, Maryland. This paragraph is placeholder copy and should be replaced with the client's own story.",
+      "This site is a straightforward way to browse a menu, place a pickup or delivery order, and pay by card or at pickup. Delivery is handled by the restaurant's own driver. Grill Hearty's is a separate project and is not part of this website.",
+      "Real photos, hours, menu items, prices, and the pickup address will be swapped in as soon as the client provides them. Until then, everything you see here is clearly marked as a placeholder."
+    ]
+  },
+  "contactPage": {
+    "intro": "Questions about an order or the menu? Use the placeholder details below, or try the form. The form does not send messages yet \u2014 it is here so the layout can be reviewed.",
+    "formNote": "This contact form does not send email. Connect a client-owned inbox or form service before launch."
+  },
+  "policies": {
+    "note": "Placeholder policy wording only \u2014 not legal advice. The client provides final Terms, Privacy, and Refund text before taking live orders.",
+    "allergens": "Ingredient and allergen information must be supplied by the client and confirmed before launch. This sample menu is illustrative only and makes no dietary claims."
+  },
+  "menu": {
+    "intro": "Every item, description, and price on this menu is a placeholder. It is not The Kale Company's real menu.",
+    "categories": [
+      {
+        "id": "bowls",
+        "name": "Bowls",
+        "items": [
+          {
+            "id": "garden-kale-bowl",
+            "name": "Garden Kale Bowl",
+            "description": "Illustrative mixed kale, grains, and colorful toppings. Placeholder item \u2014 not a real dish.",
+            "price": 12.5,
+            "image": "assets/images/bowl.svg",
+            "soldOut": false
+          },
+          {
+            "id": "lemon-herb-bowl",
+            "name": "Lemon-Herb Chicken & Kale Bowl",
+            "description": "Illustrative greens, grains, and a lemon-herb finish. Placeholder item \u2014 protein and ingredients to be confirmed.",
+            "price": 14.75,
+            "image": "assets/images/bowl-herb.svg",
+            "soldOut": false
+          },
+          {
+            "id": "roasted-veggie-bowl",
+            "name": "Roasted Veggie Grain Bowl",
+            "description": "Illustrative roasted vegetables over a hearty grain base. Placeholder item.",
+            "price": 13.25,
+            "image": "assets/images/bowl.svg",
+            "soldOut": false
+          },
+          {
+            "id": "chili-lime-bowl",
+            "name": "Chili-Lime Black Bean Bowl",
+            "description": "Illustrative beans, greens, and a chili-lime dressing. Placeholder item.",
+            "price": 12.95,
+            "image": "assets/images/bowl-chili.svg",
+            "soldOut": false
+          }
+        ]
+      },
+      {
+        "id": "wraps",
+        "name": "Wraps",
+        "items": [
+          {
+            "id": "kale-caesar-wrap",
+            "name": "Kale Caesar Wrap",
+            "description": "Illustrative chopped kale wrap with a Caesar-style dressing. Placeholder item.",
+            "price": 11.5,
+            "image": "assets/images/wrap.svg",
+            "soldOut": false
+          },
+          {
+            "id": "hummus-crunch-wrap",
+            "name": "Hummus Crunch Wrap",
+            "description": "Illustrative hummus, crisp vegetables, and greens in a wrap. Placeholder item.",
+            "price": 11.25,
+            "image": "assets/images/wrap-harvest.svg",
+            "soldOut": false
+          },
+          {
+            "id": "harvest-veggie-wrap",
+            "name": "Harvest Veggie Wrap",
+            "description": "Illustrative seasonal vegetables and greens. Placeholder item.",
+            "price": 10.95,
+            "image": "assets/images/wrap.svg",
+            "soldOut": true
+          }
+        ]
+      },
+      {
+        "id": "salads",
+        "name": "Salads",
+        "items": [
+          {
+            "id": "everyday-greens",
+            "name": "Everyday Greens",
+            "description": "Illustrative mixed greens with a bright, simple finish. Placeholder item.",
+            "price": 9.5,
+            "image": "assets/images/salad.svg",
+            "soldOut": false
+          },
+          {
+            "id": "apple-kale-crunch",
+            "name": "Apple & Kale Crunch",
+            "description": "Illustrative kale, apple, and a crunchy topping. Placeholder item.",
+            "price": 11.0,
+            "image": "assets/images/salad-apple.svg",
+            "soldOut": false
+          },
+          {
+            "id": "mediterranean-kale",
+            "name": "Mediterranean Kale Salad",
+            "description": "Illustrative kale with a Mediterranean-style mix. Placeholder item.",
+            "price": 11.75,
+            "image": "assets/images/salad.svg",
+            "soldOut": false
+          }
+        ]
+      },
+      {
+        "id": "drinks",
+        "name": "Smoothies & Juices",
+        "items": [
+          {
+            "id": "green-glow-smoothie",
+            "name": "Green Glow Smoothie",
+            "description": "Illustrative blended greens drink. Placeholder item \u2014 ingredients to be confirmed.",
+            "price": 7.5,
+            "image": "assets/images/smoothie.svg",
+            "soldOut": false
+          },
+          {
+            "id": "berry-kale-smoothie",
+            "name": "Berry Kale Smoothie",
+            "description": "Illustrative berry and kale blend. Placeholder item.",
+            "price": 7.75,
+            "image": "assets/images/smoothie-berry.svg",
+            "soldOut": false
+          },
+          {
+            "id": "citrus-cooler",
+            "name": "Citrus Cooler Juice",
+            "description": "Illustrative citrus juice. Placeholder item.",
+            "price": 6.5,
+            "image": "assets/images/juice.svg",
+            "soldOut": false
+          }
+        ]
+      },
+      {
+        "id": "sides",
+        "name": "Sides",
+        "items": [
+          {
+            "id": "garlic-kale",
+            "name": "Garlic Kale",
+            "description": "Illustrative saut\u00e9ed kale side. Placeholder item.",
+            "price": 4.5,
+            "image": "assets/images/side.svg",
+            "soldOut": false
+          },
+          {
+            "id": "sweet-potatoes",
+            "name": "Seasoned Sweet Potatoes",
+            "description": "Illustrative roasted sweet potato side. Placeholder item.",
+            "price": 4.75,
+            "image": "assets/images/side-potato.svg",
+            "soldOut": false
+          },
+          {
+            "id": "cucumber-herb",
+            "name": "Cucumber-Herb Salad",
+            "description": "Illustrative cucumber side salad. Placeholder item.",
+            "price": 4.25,
+            "image": "assets/images/side.svg",
+            "soldOut": false
+          }
+        ]
+      },
+      {
+        "id": "sweets",
+        "name": "Sweets",
+        "items": [
+          {
+            "id": "honey-oat-square",
+            "name": "Honey Oat Square",
+            "description": "Illustrative oat square. Placeholder item \u2014 ingredients to be confirmed.",
+            "price": 3.75,
+            "image": "assets/images/sweet.svg",
+            "soldOut": false
+          },
+          {
+            "id": "cocoa-date-bite",
+            "name": "Cocoa Date Bite",
+            "description": "Illustrative cocoa-date bite. Placeholder item.",
+            "price": 3.5,
+            "image": "assets/images/sweet-cocoa.svg",
+            "soldOut": false
+          }
+        ]
+      }
+    ]
+  },
+  "preview": {
+    "passwordRequired": true,
+    "promptTitle": "The Kale Company preview",
+    "promptText": "This is a private placeholder preview, not a live ordering site. Enter the preview password to continue."
+  }
+}
