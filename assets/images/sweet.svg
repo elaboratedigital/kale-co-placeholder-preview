@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-hidden="true">
+  <rect width="800" height="600" fill="#f6efe0"/>
+  
+  <ellipse cx="400" cy="480" rx="160" ry="22" fill="#cbb992" opacity=".3"/>
+  <rect x="250" y="250" width="300" height="180" rx="18" fill="#c9844a"/>
+  <rect x="262" y="262" width="276" height="156" rx="14" fill="#e3a25a"/>
+  <rect x="262" y="262" width="276" height="36" rx="14" fill="#6b3a22"/>
+  <rect x="262" y="290" width="276" height="18" fill="#6b3a22"/>
+  <path d="M300 360h200M300 390h200M300 420h200" stroke="#c9844a" stroke-width="4" stroke-linecap="round" opacity=".5"/>
+  <circle cx="400" cy="230" r="28" fill="#f3ead0"/>
+  <circle cx="400" cy="230" r="16" fill="#8ed08a"/>
+
+  
+  <g font-family="Georgia, serif" font-size="13" letter-spacing="1.2" fill="#1d4a34" fill-opacity=".35">
+    <text x="400" y="575" text-anchor="middle">PLACEHOLDER IMAGE · NOT A PHOTOGRAPH</text>
+  </g>
+
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-hidden="true">
+  <rect width="800" height="600" fill="#f3ead2"/>
+  
+  <ellipse cx="400" cy="470" rx="200" ry="26" fill="#cbb992" opacity=".3"/>
+  <ellipse cx="400" cy="390" rx="200" ry="70" fill="#efe4c8"/>
+  <ellipse cx="400" cy="378" rx="180" ry="56" fill="#fbf6e8"/>
+  <g fill="#c9844a">
+    <ellipse cx="320" cy="330" rx="70" ry="22" transform="rotate(-16 320 330)"/>
+    <ellipse cx="400" cy="300" rx="74" ry="22" transform="rotate(8 400 300)"/>
+    <ellipse cx="480" cy="335" rx="68" ry="20" transform="rotate(18 480 335)"/>
+    <ellipse cx="360" cy="360" rx="64" ry="18" transform="rotate(-8 360 360)"/>
+    <ellipse cx="450" cy="365" rx="60" ry="18" transform="rotate(10 450 365)"/>
+  </g>
+  <g fill="#e3a25a">
+    <ellipse cx="340" cy="318" rx="50" ry="12" transform="rotate(-16 340 318)"/>
+    <ellipse cx="415" cy="292" rx="52" ry="12" transform="rotate(8 415 292)"/>
+    <ellipse cx="470" cy="324" rx="46" ry="11" transform="rotate(18 470 324)"/>
+  </g>
+  <circle cx="300" cy="380" r="10" fill="#e8b14c"/>
+  <circle cx="520" cy="370" r="9" fill="#e07a3d"/>
+
+  
+  <g font-family="Georgia, serif" font-size="13" letter-spacing="1.2" fill="#1d4a34" fill-opacity=".35">
+    <text x="400" y="575" text-anchor="middle">PLACEHOLDER IMAGE · NOT A PHOTOGRAPH</text>
+  </g>
+
+</svg>

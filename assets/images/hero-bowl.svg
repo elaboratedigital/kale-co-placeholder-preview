@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 640" role="img" aria-hidden="true">
+  <rect width="800" height="640" fill="#f3ead2"/>
+  
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="40%" r="50%">
+      <stop offset="0" stop-color="#fff7df"/>
+      <stop offset="1" stop-color="#e8d7b0"/>
+    </radialGradient>
+    <linearGradient id="leafA" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8fce6b"/>
+      <stop offset="1" stop-color="#2f7a45"/>
+    </linearGradient>
+    <linearGradient id="leafB" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#b7dd7a"/>
+      <stop offset="1" stop-color="#3e8f4d"/>
+    </linearGradient>
+  </defs>
+  <circle cx="400" cy="300" r="230" fill="url(#glow)"/>
+  <ellipse cx="400" cy="430" rx="210" ry="36" fill="#c9b48a" opacity=".35"/>
+  <path d="M190 360c10 90 90 150 210 150s200-60 210-150c0 0-40 40-210 40S190 360 190 360Z" fill="#efe6cc"/>
+  <path d="M205 358c12 78 85 132 195 132s183-54 195-132c0 0-36 32-195 32S205 358 205 358Z" fill="#f7f1de"/>
+  <g transform="translate(400 300)">
+    <ellipse cx="-90" cy="-70" rx="80" ry="58" transform="rotate(-28)" fill="url(#leafA)"/>
+    <ellipse cx="-10" cy="-110" rx="74" ry="52" fill="url(#leafB)"/>
+    <ellipse cx="80" cy="-74" rx="86" ry="58" transform="rotate(24)" fill="url(#leafA)"/>
+    <ellipse cx="-120" cy="10" rx="60" ry="78" transform="rotate(-12)" fill="#3f8d4e"/>
+    <ellipse cx="118" cy="16" rx="58" ry="76" transform="rotate(14)" fill="#2f7a45"/>
+    <ellipse cx="-40" cy="20" rx="48" ry="40" fill="#6faf55"/>
+    <ellipse cx="40" cy="30" rx="50" ry="38" fill="#81c061"/>
+    <circle cx="-70" cy="50" r="22" fill="#c44536"/>
+    <circle cx="-30" cy="70" r="18" fill="#a3362c"/>
+    <circle cx="10" cy="58" r="16" fill="#d9653c"/>
+    <rect x="20" y="-20" width="110" height="22" rx="6" transform="rotate(-18 20 -20)" fill="#e8b14c"/>
+    <rect x="28" y="8" width="110" height="22" rx="6" transform="rotate(-18 28 8)" fill="#efc66a"/>
+    <rect x="10" y="36" width="90" height="18" rx="6" transform="rotate(-18 10 36)" fill="#d39b3a"/>
+    <circle cx="70" cy="70" r="9" fill="#f3ead0"/>
+    <circle cx="90" cy="55" r="7" fill="#f3ead0"/>
+    <circle cx="55" cy="86" r="6" fill="#f3ead0"/>
+  </g>
+  <path d="M200 368c20 70 80 118 200 118s180-48 200-118" fill="none" stroke="#d7c39a" stroke-width="10" stroke-linecap="round"/>
+
+  
+  <g font-family="Georgia, serif" font-size="13" letter-spacing="1.2" fill="#1d4a34" fill-opacity=".35">
+    <text x="400" y="575" text-anchor="middle">PLACEHOLDER IMAGE · NOT A PHOTOGRAPH</text>
+  </g>
+
+</svg>

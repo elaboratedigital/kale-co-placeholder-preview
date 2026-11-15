@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="The Kale Company">
+  <rect width="64" height="64" rx="14" fill="#1d4a34"/>
+  <path fill="#8ed08a" d="M32 10c11 8 20 16 20 28 0 9-7 16-16 16-2 0-4-.3-6-1-2 .7-4 1-6 1-9 0-16-7-16-16C8 26 21 18 32 10z"/>
+  <path fill="#1d4a34" d="M32 16c.4 10 1 20 1 28" stroke="#1d4a34" stroke-width="2" fill="none"/>
+  <path fill="none" stroke="#246343" stroke-width="2" d="M33 24c6 3 10 7 12 12M33 32c-6 2-10 6-12 11"/>
+</svg>

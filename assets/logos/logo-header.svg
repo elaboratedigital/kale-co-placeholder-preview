@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" role="img" aria-label="The Kale Company">
+  <defs>
+    <linearGradient id="leaf" x1="0.3" y1="0" x2="0.7" y2="1">
+      <stop offset="0" stop-color="#8ed08a"/>
+      <stop offset="1" stop-color="#1d4a34"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#leaf)" d="M100 18c42 28 70 58 70 102 0 36-28 62-62 62-6 0-12-1-18-3-6 2-12 3-18 3-34 0-62-26-62-62C10 76 58 46 100 18z"/>
+  <path fill="none" stroke="#f7f3ea" stroke-width="7" stroke-linecap="round" d="M100 42c1 30 2 58 2 88"/>
+  <path fill="none" stroke="#f7f3ea" stroke-width="5" stroke-linecap="round" d="M102 70c22 10 36 24 44 40M102 96c-22 8-36 22-44 38"/>
+  <text x="100" y="214" text-anchor="middle" font-family="Georgia, serif" font-size="36" fill="#1d4a34">Kale Co.</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-hidden="true">
+  <rect width="800" height="600" fill="#f3ead2"/>
+  
+  <ellipse cx="400" cy="470" rx="190" ry="26" fill="#cbb992" opacity=".3"/>
+  <g transform="translate(400 300) rotate(-18)">
+    <path d="M-210 -20c20-90 120-150 210-150 110 0 230 50 250 150 10 55-30 120-90 150-80 40-200 30-280-10-55-28-95-80-90-140Z" fill="#e7d09a"/>
+    <path d="M-190 -10c20-80 110-130 190-130 100 0 205 45 222 130 8 48-28 105-80 130-72 35-180 24-250-12-48-24-85-70-82-118Z" fill="#f6e6b8"/>
+    <path d="M-140 10c10-50 70-95 150-95 85 0 150 40 160 95v40c-20 55-80 80-165 80s-145-28-160-80c-2-14 5-30 15-40Z" fill="#3f8c4c"/>
+    <path d="M-100 20c8-30 50-58 110-58 62 0 108 26 118 58 2 16-10 40-40 52-40 16-100 14-148-6-20-8-42-26-40-46Z" fill="#6fb356"/>
+    <rect x="-60" y="0" width="150" height="16" rx="5" transform="rotate(-8)" fill="#e8b14c"/>
+    <circle cx="20" cy="40" r="14" fill="#c44536"/>
+    <circle cx="60" cy="28" r="11" fill="#d9653c"/>
+    <path d="M-40 55c30 8 80 8 120 0" fill="none" stroke="#2e7a43" stroke-width="6" stroke-linecap="round"/>
+  </g>
+
+  
+  <g font-family="Georgia, serif" font-size="13" letter-spacing="1.2" fill="#1d4a34" fill-opacity=".35">
+    <text x="400" y="575" text-anchor="middle">PLACEHOLDER IMAGE · NOT A PHOTOGRAPH</text>
+  </g>
+
+</svg>

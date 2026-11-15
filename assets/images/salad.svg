@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-hidden="true">
+  <rect width="800" height="600" fill="#e6f3e4"/>
+  
+  <ellipse cx="400" cy="470" rx="200" ry="26" fill="#cbb992" opacity=".3"/>
+  <ellipse cx="400" cy="400" rx="210" ry="70" fill="#efe4c8"/>
+  <ellipse cx="400" cy="390" rx="190" ry="58" fill="#fbf6e8"/>
+  <ellipse cx="310" cy="300" rx="90" ry="60" transform="rotate(-20 310 300)" fill="#3f8c4c"/>
+  <ellipse cx="400" cy="250" rx="85" ry="58" fill="#6fb356"/>
+  <ellipse cx="500" cy="300" rx="92" ry="62" transform="rotate(18 500 300)" fill="#2e7a43"/>
+  <ellipse cx="360" cy="340" rx="70" ry="48" fill="#87c365"/>
+  <ellipse cx="450" cy="345" rx="64" ry="46" fill="#4e9a55"/>
+  <circle cx="340" cy="360" r="16" fill="#c44536"/>
+  <circle cx="390" cy="375" r="13" fill="#e07a3d"/>
+  <circle cx="470" cy="365" r="15" fill="#d4a017"/>
+  <circle cx="430" cy="300" r="12" fill="#f0c66c"/>
+  <path d="M280 340c40-20 60-10 80 10" fill="none" stroke="#f4ead1" stroke-width="6"/>
+  <path d="M500 330c-30-10-60 0-70 20" fill="none" stroke="#f4ead1" stroke-width="6"/>
+
+  
+  <g font-family="Georgia, serif" font-size="13" letter-spacing="1.2" fill="#1d4a34" fill-opacity=".35">
+    <text x="400" y="575" text-anchor="middle">PLACEHOLDER IMAGE · NOT A PHOTOGRAPH</text>
+  </g>
+
+</svg>

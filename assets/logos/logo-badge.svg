@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-label="The Kale Company concept badge">
+  <circle cx="200" cy="200" r="190" fill="#f7f3ea" stroke="#1d4a34" stroke-width="8"/>
+  <circle cx="200" cy="200" r="158" fill="none" stroke="#1d4a34" stroke-width="3"/>
+  <path fill="#2d7a51" d="M200 118c38 22 62 46 62 82 0 30-24 52-54 52-5 0-10-1-16-3-6 2-11 3-16 3-30 0-54-22-54-52 0-36 40-60 78-82z"/>
+  <path fill="#6fb356" d="M168 198c8-28 28-50 48-68 8 22 14 44 10 70-18 8-40 8-58-2z"/>
+  <path fill="none" stroke="#f7f3ea" stroke-width="4" d="M200 140v86"/>
+  <path fill="none" stroke="#1d4a34" stroke-width="2" d="M80 248c20 8 40 8 60 0M260 248c20 8 40 8 60 0"/>
+  <path fill="#1d4a34" d="M200 268c-58 0-86-18-96-28 16 36 50 62 96 62s80-26 96-62c-10 10-38 28-96 28z"/>
+  <text font-family="Georgia, serif" font-size="42" fill="#1d4a34" text-anchor="middle">
+    <textPath href="#arc" startOffset="50%">placeholder</textPath>
+  </text>
+  <defs>
+    <path id="arc" d="M80 200a120 120 0 0 1 240 0"/>
+  </defs>
+  <text x="200" y="86" text-anchor="middle" font-family="Georgia, serif" font-size="34" fill="#1d4a34">Kale Co.</text>
+  <text x="200" y="330" text-anchor="middle" font-family="Georgia, serif" font-size="14" letter-spacing="2" fill="#1d4a34">PLACEHOLDER LOGO</text>
+</svg>
